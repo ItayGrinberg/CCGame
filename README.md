@@ -3,7 +3,7 @@ This is a simple dice game you can play against a computer agent. The agent have
 You can play the game simply by downloading the Executable folder and running the .exe file in the folder. However, this will probably only work on a Windows OS. For other OS, You can try and running the Python file in the Code folder, although it has not been tested so I can't assure that will work.
 If you wish to review the code, it is available in the Code folder. Note, however, that it was not originally meant to be published, but as part of learning Python, and therefore is a bit messy and not annotated.
 
-#Game Rules
+# Game Rules
 The players are mayors of cities facing COVID-19 and competing to keep their city the safest. The goal is to reach ten safety points or more and have the safest city. Each die roll represents citizens leaving their homes. The die roll may result in one of three options - return home after a SAFE TRIP (denoted by a house), a protected encounter where everyone was wearing MASKs (denoted by a mask), and an unprotected encounter which leads to EXPOSURE (denoted by a virus). The chance of EXPOSURE is higher depending on the proximity. Nearby trips (blue) are safer than Far trips (green) which are safer than trips Abroad (red). A turn is comprised of the following steps:
   1. Pick three dice at random from the stack and roll them by clicking the Roll button.
   2. If you have three (or more) EXPOSUREs, you have a local outbreak which ends your turn when you click the End Turn button. Otherwise, you may choose to end your turn here with the SAFE TRIPs you have collected so far by clicking the End Turn button (skipping the next steps) or continue by clicking the Roll button again.
