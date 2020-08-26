@@ -1,6 +1,6 @@
 # CCGame
-This is a simple dice game you can play against a computer agent. The agent have been thoroughly trained via Reinforcement Learning, playing numerous games agains himself, in order to learn to make the correct decision considering the complex game statistics. The agent will continue to learn (although slowly) as it plays against the user, from both his and the user's moves. 
-You can play the game simply by downloading the Executable folder and running the .exe file in the folder. However, this will probably only work on a Windows OS. For other OS, You can try and running the Python file in the Code folder, although it has not been tested so I can't assure that will work.
+This is a simple dice game you can play against a computer agent. The agent has been thoroughly trained via Reinforcement Learning, playing numerous games against himself, in order to learn to make the correct decision considering the complex game statistics. The agent will continue to learn (although slowly) as it plays against the user, from both his and the user's moves.
+You can play the game simply by downloading the Executable folder and running the .exe file in the folder. However, this will probably only work on a Windows OS. For other OS, You can try and run the Python file in the Code folder, although it has not been tested so I can't assure you that will work.
 If you wish to review the code, it is available in the Code folder. Note, however, that it was not originally meant to be published, but as part of learning Python, and therefore is a bit messy and not annotated.
 
 # Game Rules
